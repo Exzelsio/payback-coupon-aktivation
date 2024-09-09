@@ -1,6 +1,7 @@
-# payback-coupon-automation
+# Payback-Coupon-Aktivation
 
 A simple script to automatically activate all your Payback coupons.
+
 ## Instructions:
 
     Log in to your Payback account.
